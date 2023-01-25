@@ -13,7 +13,10 @@
   "dependencies": {
     "@astrojs/partytown": "^1.0.3",
     "@astrojs/vue": "^2.0.0",
+    "@bcwdev/auth0provider-client": "^0.0.13",
     "astro": "^2.0.1",
+    "axios": "^1.2.4",
+    "bootstrap": "^5.2.3",
     "vue": "^3.2.45"
   }
 }
